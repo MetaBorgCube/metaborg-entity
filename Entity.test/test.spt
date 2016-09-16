@@ -1,0 +1,7 @@
+module test
+
+language Entity
+
+test parse [[
+
+]] parse succeeds
